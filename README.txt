@@ -3,6 +3,7 @@ install requirements from requirements.txt
 run command "python manage.py runserver" from project directory
 
 project on heroku: https://thawing-castle-18399.herokuapp.com/
+postman doc: https://documenter.getpostman.com/view/20179413/UVsTqMsn
 
 
 Project contains two apps
