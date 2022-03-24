@@ -1,7 +1,7 @@
 from django.urls import path
-from .views import ArticleCreateApi, ArticleApi, ArticleUpdateApi, ArticleDeleteApi
-from .views import CommentCreateApi, CommentApi, CommentUpdateApi, CommentDeleteApi
-from .views import VoteCreateApi
+from .api import ArticleCreateApi, ArticleApi, ArticleUpdateApi, ArticleDeleteApi
+from .api import CommentCreateApi, CommentApi, CommentUpdateApi, CommentDeleteApi
+from .api import VoteCreateApi
 
 
 
