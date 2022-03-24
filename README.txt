@@ -2,6 +2,8 @@ To run project on localhost
 install requirements from requirements.txt
 run command "python manage.py runserver" from project directory
 
+project on heroku: https://thawing-castle-18399.herokuapp.com/
+
 
 Project contains two apps
 First app "articles" generates simple page with articles and pages with comments for those articles.
